@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "836248360559",
+    "firebase_url": "https://ornam-2fb07-default-rtdb.firebaseio.com",
+    "project_id": "ornam-2fb07",
+    "storage_bucket": "ornam-2fb07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836248360559:android:ee3c843b120c1ca6a5df9a",
+        "android_client_info": {
+          "package_name": "com.admin.ornam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836248360559-elik7ef8bofoa6vfoml582mt4nqo145l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLKDhjxpiJGHPG42basZSte_ztxviBHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836248360559-elik7ef8bofoa6vfoml582mt4nqo145l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836248360559-hnevleli7vfchkgl40e1c0hipr25i9vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.admin.ornam"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836248360559:android:f56f6270ca691e23a5df9a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836248360559-elik7ef8bofoa6vfoml582mt4nqo145l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLKDhjxpiJGHPG42basZSte_ztxviBHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836248360559-elik7ef8bofoa6vfoml582mt4nqo145l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836248360559-hnevleli7vfchkgl40e1c0hipr25i9vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.admin.ornam"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836248360559:android:058e31b82d654afda5df9a",
+        "android_client_info": {
+          "package_name": "com.example.instavideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836248360559-elik7ef8bofoa6vfoml582mt4nqo145l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLKDhjxpiJGHPG42basZSte_ztxviBHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836248360559-elik7ef8bofoa6vfoml582mt4nqo145l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836248360559-hnevleli7vfchkgl40e1c0hipr25i9vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.admin.ornam"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836248360559:android:ebc7f4a67288b26fa5df9a",
+        "android_client_info": {
+          "package_name": "com.gold.oranam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836248360559-elik7ef8bofoa6vfoml582mt4nqo145l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLKDhjxpiJGHPG42basZSte_ztxviBHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836248360559-elik7ef8bofoa6vfoml582mt4nqo145l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836248360559-hnevleli7vfchkgl40e1c0hipr25i9vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.admin.ornam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
