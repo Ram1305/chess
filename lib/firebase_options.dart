@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDaLKDhjxpiJGHPG42basZSte_ztxviBHw',
-    appId: '1:836248360559:android:058e31b82d654afda5df9a',
+    appId: '1:836248360559:android:f56f6270ca691e23a5df9a',
     messagingSenderId: '836248360559',
     projectId: 'ornam-2fb07',
     databaseURL: 'https://ornam-2fb07-default-rtdb.firebaseio.com',
@@ -68,12 +68,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCWBH-rZKUGwV-43vQQQc8HoMVqn-gela0',
-    appId: '1:836248360559:ios:a9d6eda17f4f090ea5df9a',
+    appId: '1:836248360559:ios:96a68f1106452e2fa5df9a',
     messagingSenderId: '836248360559',
     projectId: 'ornam-2fb07',
     databaseURL: 'https://ornam-2fb07-default-rtdb.firebaseio.com',
     storageBucket: 'ornam-2fb07.appspot.com',
-    iosClientId: '836248360559-hdf1f0j5a01j7578dnspp5pcar89n270.apps.googleusercontent.com',
-    iosBundleId: 'com.example.instavideo',
+    iosClientId: '836248360559-qjvpo4mi5rggjh78rl0pfs3l3jc4ujna.apps.googleusercontent.com',
+    iosBundleId: 'com.example.flutterChess',
   );
 }
